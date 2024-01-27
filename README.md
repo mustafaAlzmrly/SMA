@@ -1,2 +1,8 @@
-mustafa
-abdulrhman
+<h1 >mustafa mohamed alezmrly</h1>
+
+<h1>abdulrahman ehneesh</h1>
+
+فكرة المشروع: منضومه لبيع المواد الغدائيه بالجمله
+الاهداف: 1-سهوله معرفه النواقص 2- سهوله عمليه حفظ وتخزين البيانات 
+
+
